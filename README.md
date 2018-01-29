@@ -5,3 +5,5 @@ Activity 3:
   Fork: https://github.com/st3yd/Lab2Fork-103
   Pull Request: https://github.com/UVA-CS3240-S18/Lab2Fork-103/pull/32
   Changes made: Changed pig.py. Added initial player choice, turned turn from a string to a boolean.
+Activity 4:
+  Issue: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/81
